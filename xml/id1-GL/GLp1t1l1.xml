@@ -88,17 +88,17 @@
         </div>
         <div type="glosa" xml:id="glossGLp1t1l1">
           <p xml:lang="latin"><gloss type="glosshead"> <span type="gloss_title">Titulus primus<ex>.</ex> De legibus.</span> <span type="lexgloss">Lex prima.</span> Statutæ sunt leges
-            istæ, ut inter homines ius &amp; iustitia servetur. <abbr type="hoc_ex" xml:lang="latin">h<ex>oc</ex>. d<ex>icit</ex></abbr>.</gloss></p>
+            istæ, ut inter homines ius &amp; iustitia servetur. <abbr xml:lang="latin">h<ex>oc</ex>. d<ex>icit</ex></abbr>.</gloss></p>
           <p xml:lang="latin"><gloss target="#glossGLp1t1l1a">1 a <emph xml:lang="es">Establecimientos.</emph> Non ponitur hic
             legis diffinitio, de qua infra codem. l.4. sed ponuntur causæ quare conduntur leges,
-            <abbr type="et" xml:lang="latin">&amp;</abbr> concordat cum. l.2. ff. codem.</gloss></p>
-          <p xml:lang="latin"><gloss target="#glossGLp1t1l1b">2 b <emph xml:lang="es">Bivir bien</emph> Est enim lex <abbr type="oim" xml:lang="latin">om<ex>nium</ex></abbr>
-            divinarum, <abbr type="et" xml:lang="latin">&amp;</abbr> humanarum rerum notitia, regula iustorum, <abbr type="et" xml:lang="latin">&amp;</abbr> iniustorum
+            <abbr xml:lang="latin">&amp;</abbr> concordat cum. l.2. ff. codem.</gloss></p>
+          <p xml:lang="latin"><gloss target="#glossGLp1t1l1b">2 b <emph xml:lang="es">Bivir bien</emph> Est enim lex <abbr xml:lang="latin">om<ex>nium</ex></abbr>
+            divinarum, <abbr xml:lang="latin">&amp;</abbr> humanarum rerum notitia, regula iustorum, <abbr xml:lang="latin">&amp;</abbr> iniustorum
             præceptrix faciendorum, p<ex>ro</ex>hibitrix non faciendorum: ut in dicta. l. secunda. ad
             fin.</gloss></p>
           <p xml:lang="latin"><gloss target="#glossGLp1t1l1c">3 c <emph xml:lang="es">A la buena vida.</emph> Dicit
-            <name role="filósofo" type="persona" key="Aristóteles">philosophus</name>. <sic>9.</sic><corr>5.</corr><title key="Ethica Nicomachea">Ethicorum</title>,</gloss> <cit><quote>plegalia iusta dicimus factiva, <abbr type="et" xml:lang="latin">&amp;</abbr> conservativa
-              fœlicitatis, <abbr type="et" xml:lang="latin">&amp;</abbr> particularium ipsius, politica communicatione.</quote><note><bibl>Tomás de Aquino, Summa Theologica, I-II, q. 90, a. 2</bibl></note></cit></p>
+            <name role="filósofo" type="persona" key="Aristóteles">philosophus</name>. <sic>9.</sic><corr>5.</corr><title key="Ethica Nicomachea">Ethicorum</title>,</gloss> <cit><quote>plegalia iusta dicimus factiva, <abbr xml:lang="latin">&amp;</abbr> conservativa
+              fœlicitatis, <abbr xml:lang="latin">&amp;</abbr> particularium ipsius, politica communicatione.</quote><note><bibl>Tomás de Aquino, Summa Theologica, I-II, q. 90, a. 2</bibl></note></cit></p>
         </div>
       </div>
     </body>
