@@ -22,11 +22,11 @@
         <bibl>
           <title level="a">Las Siete Partidas del Sabio Rey don Alonso el Nono, nuevamente glosadas </title>
           <author>por el Licenciado Gregorio Lopez <affiliation>del Consejo Real de Indias de Su
-              Magestad.</affiliation></author><title type="subtitle">Con su repertorio muy copioso,
-            assi del Testo como de la glosa.</title>
+            Magestad.</affiliation></author><title type="subtitle">Con su repertorio muy copioso,
+              assi del Testo como de la glosa.</title>
           <pubPlace>Salamanca</pubPlace>
           <publisher>En casa de Domingo de Portonariis Ursino, <affiliation>Impresor de la Sacra
-              Real Magestad</affiliation></publisher>
+            Real Magestad</affiliation></publisher>
           <date>1576</date>. </bibl>
       </sourceDesc>
     </fileDesc>
@@ -40,13 +40,13 @@
     </front>
     <body>
       <div n="1.1.1" type="ley" xml:id="GLp1t1">
-
+        
         <div type="titulo" xml:id="titGLp1t1">
           <p>Título primero, que fabla de las leyes, e por quantas razones es este libro partido por
             titulos e, en que manera.</p>
         </div>
         <div type="prologo" xml:id="prGLp1t1">
-          <p>A servicio de <name type="deity" xml:id="Dios">Dios</name>, e pro comunal de las gentes
+          <p>A servicio de <name type="deity" key="Dios">Dios</name>, e pro comunal de las gentes
             fazemos este libro, segun que mostramos en el comienço del. E partimoslo en siete
             partes, en la manera que diximos de suso porque los que lo leyessen, fallassen ay todas
             las cosas cumplidas, e ciertas, para aprovechar dellas. E departimos cada una partida
@@ -58,11 +58,11 @@
             queremos les fazer entender. Que leyes son estas. E en quantas manera se departen, e
             porque han assi nombre. E quales son las virtudes, e fuerças dellas. E de que lugares
             fueron tomadas, e sacadas. E quales dellas pertenescen a la creencia de nuestro señor
-              <name type="deity" xml:id="Jesucristo">Iesu Christo</name>. E quales pertenescen al
+            <name type="deity" key="Jesucristo">Iesu Christo</name>. E quales pertenescen al
             governamiento de las gentes. E porque han nombre <span type="norma" xml:id="ley"
               >leyes</span>. E quales deven ser en si mismas. E <span type="iurisdictio">como deven
-              ser fechas</span>. E a que tiene pro. <span type="iurisdictio">E qual deve ser el
-              fazedor dellas</span>. E quien ha <span type="iurisdictio">poderde las fazer</span>. E
+                ser fechas</span>. E a que tiene pro. <span type="iurisdictio">E qual deve ser el
+                  fazedor dellas</span>. E quien ha <span type="iurisdictio">poderde las fazer</span>. E
             como se deven entender. E quien las puede paladinar, e fazer que las entiendan, quando
             alguna duda y oviere. E en que manera las deven <span type="poder">obedecer</span>. E
             como son tenudos de las de guardar. E como se deven juzgar por ellas. E en que manera
@@ -87,18 +87,18 @@
             partidas que le siguen despues.</p>
         </div>
         <div type="glosa" xml:id="glossGLp1t1l1">
-          <p xml:lang="latin"><gloss> Titulos primus De legibus. Lex prima. Statutae sunt leges
-              istae, ut inter hominesius &amp; iustiti seruetur. h. d.</gloss></p>
-          <p xml:lang="latin"><gloss target="#glossGLp1t1l1a">1 a [Establecimientos] Non ponitur hic
-              legis diffinitio, de qua infra eodem. l.4. sed ponuntur causae quare conduntur leges,
-              &amp; concordar cum l. 2. ff. eodem.</gloss></p>
-          <p xml:lang="latin"><gloss target="#glossGLp1t1l1b">2 b [Bivir bien] Est enim lex oim
-              divinarum, &amp; humanarum rerum notitia, regula, iustorum &amp; iniustorum
-              praeceptrix faciendorum, p hibitrix non faciendorum: ut in dicta. l. secunda. ad
-              fin.</gloss></p>
-          <p xml:lang="latin"><gloss target="#glossGLp1t1l1c">3 c [A la buena vida] Dicit
-              philosophus. 9. Ethicorum, plegalia iusta dicimus factiva, &amp; conservativa
-              foelicitatis, &amp; particularium ipsius, politica communicatione.</gloss></p>
+          <p xml:lang="latin"><gloss type="glosshead"> <span type="gloss_title">Titulus primus<ex>.</ex> De legibus.</span> <span type="lexgloss">Lex prima.</span> Statutæ sunt leges
+            istæ, ut inter homines ius &amp; iustitia servetur. <abbr type="hoc_ex" xml:lang="latin">h<ex>oc</ex>. d<ex>icit</ex></abbr>.</gloss></p>
+          <p xml:lang="latin"><gloss target="#glossGLp1t1l1a">1 a <emph xml:lang="es">Establecimientos.</emph> Non ponitur hic
+            legis diffinitio, de qua infra codem. l.4. sed ponuntur causæ quare conduntur leges,
+            <abbr type="et" xml:lang="latin">&amp;</abbr> concordat cum. l.2. ff. codem.</gloss></p>
+          <p xml:lang="latin"><gloss target="#glossGLp1t1l1b">2 b <emph xml:lang="es">Bivir bien</emph> Est enim lex <abbr type="oim" xml:lang="latin">om<ex>nium</ex></abbr>
+            divinarum, <abbr type="et" xml:lang="latin">&amp;</abbr> humanarum rerum notitia, regula iustorum, <abbr type="et" xml:lang="latin">&amp;</abbr> iniustorum
+            præceptrix faciendorum, p<ex>ro</ex>hibitrix non faciendorum: ut in dicta. l. secunda. ad
+            fin.</gloss></p>
+          <p xml:lang="latin"><gloss target="#glossGLp1t1l1c">3 c <emph xml:lang="es">A la buena vida.</emph> Dicit
+            <name role="filósofo" type="persona" key="Aristóteles"></name>philosophus. <sic>9.</sic><corr>5.</corr><title key="Ethica Nicomachea">Ethicorum</title>,</gloss> <cit><quote>plegalia iusta dicimus factiva, <abbr type="et" xml:lang="latin">&amp;</abbr> conservativa
+              fœlicitatis, <abbr type="et" xml:lang="latin">&amp;</abbr> particularium ipsius, politica communicatione.</quote><note><bibl>Tomás de Aquino, Summa Theologica, I-II, q. 90, a. 2</bibl></note></cit></p>
         </div>
       </div>
     </body>
