@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="title"><p>REAL ORDENANZA PARA EL ESTABLECIMIENTO É INSTRUCCION DE INTENDENTES DE EXÉRCITO Y PROVINCIA EN EL REINO DE LA NUEVA-ESPAÑA. DE ORDEN DE SU MAGESTAD.
+            MADRID.</p></div>
+         <div type="date"><p>Año de 1786</p></div>
+         <div type="indice">
+            <div type="indice_title"><p>ÍNDICE DE LAS PRINCIPALES MATERIAS DE QUE TRATA ESTA ORDENANZA EN CADA UNO DE SUS ARTÍCULOS, CON EXPRESION de las páginas donde éstos se hallan.</p></div>
+            <div type="text"></div>
+         </div>
+      </body>
+  </text>
+</TEI>
